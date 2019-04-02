@@ -1,2 +1,2 @@
 # Hello
-Linux CI/CD Training
+Linux Foundation CI/CD Training
